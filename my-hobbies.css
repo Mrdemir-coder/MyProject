@@ -1,0 +1,63 @@
+.h1-global-hobbie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-hobbie{
+    display: flex;
+    justify-content: center;
+    gap: 350px;
+}
+.hobbie-img{
+    width: 450px;
+    height: 550px;
+}
+.hobbie-img-list{
+    display: flex ;
+    justify-content: center;
+    gap: 50px;
+}
+.hobbie-img-1{
+    height: 550px;
+    width: 400px;
+}
+.header{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-top: 25px ;
+     margin-bottom: 25px ;
+     background-color: green;
+ }
+ .nav-list-link{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;    
+ color: #FFFF ;
+ gap: 50px;
+}
+.nav-list{
+    display: flex ;
+    justify-content: center;
+    gap: 50px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px ;
+    margin-bottom: 25px ;
+    background-color: green;
+}
+.footer-nav-list-link{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;    
+ color: #FFFF ;
+}

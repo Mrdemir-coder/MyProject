@@ -1,0 +1,62 @@
+.dem-img{
+    display: block ;
+    margin: 0 auto;
+    width: 350px;
+    height: auto;
+}
+.header{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px ;
+    margin-bottom: 25px ;
+    background-color: green;
+}
+.nav-list-link{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;    
+ color: #FFFF ;
+ gap: 50px;
+}
+.nav-list{
+    display: flex ;
+    justify-content: center;
+    gap: 50px;
+}
+.h3-first{
+    display: flex ;
+    justify-content: center ;
+}
+.h3-second{
+    display: flex ;
+    justify-content: center ;
+    align-items: center; 
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px ;
+    margin-bottom: 25px ;
+    background-color: green;
+}
+.footer-nav-list-link{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;    
+ color: #FFFF ; 
+ display: flex;
+ gap: 50px;
+}
+.footer-nav-list{
+    display: flex ;
+    justify-content: center;
+    gap: 50px;
+}    
